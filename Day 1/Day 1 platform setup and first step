@@ -1,0 +1,33 @@
+# Day 1 – Introduction to Databricks & Apache Spark
+
+## 📌 Overview
+Day 1 focuses on understanding the fundamentals of Databricks and Apache Spark. This day sets the foundation for working with big data and distributed processing.
+
+## 🧠 Topics Covered
+- What is Databricks?
+- What is Apache Spark?
+- Why Spark is faster than traditional systems
+- Databricks Workspace overview
+- Databricks Community Edition setup
+
+## 🛠️ Hands-on Tasks
+- Created Databricks Community Edition account
+- Explored Databricks workspace
+- Ran first Spark notebook
+- Executed basic Spark commands
+
+## 📂 Files in this Folder
+- `Day1_Notes.pdf`
+- `Day1_Notebook.py`
+- `Day1_Notebook.html`
+
+## 🎯 Key Learnings
+- Spark works on distributed in-memory processing
+- Databricks simplifies Spark usage
+- Notebooks allow interactive data exploration
+
+## 🔗 Challenge
+IDC 14 Days Databricks & AI Challenge
+
+---
+✨ *Showing up and starting is the real win!*
