@@ -19,7 +19,6 @@ Day 1 focuses on understanding the fundamentals of Databricks and Apache Spark. 
 ## 📂 Files in this Folder
 - `Day1_Notes.pdf`
 - `Day1_Notebook.py`
-- `Day1_Notebook.html`
 
 ## 🎯 Key Learnings
 - Spark works on distributed in-memory processing
